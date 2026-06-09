@@ -14,3 +14,7 @@ while s<=e:
     else:
         e=m-1
 return False
+
+#17
+#1544
+#next greater,lesser - monotonic stack
